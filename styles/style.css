@@ -131,4 +131,7 @@ body{
     .apresentacao__conteudo__titulo{
         padding: 50px 0 0 0;
     }
+    .apresentacao__links__navegacao{
+        width: 55%;
+    }
 }
